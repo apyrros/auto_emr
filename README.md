@@ -1,5 +1,5 @@
 # auto_emr
-This is a simple example of how to use autohotkey and Ollama with mistral to interact with a popular EHR/EMR software and get summarized data back
+This is a simple example of how to use autohotkey (Windows) and Ollama with Mistral to interact with a popular EHR/EMR software and get summarized data back.
 
 # Cloning the repository
 git clone https://github.com/apyrros/auto_emr
@@ -9,7 +9,7 @@ git clone https://github.com/apyrros/auto_emr
 
 'ollama serve mistral'
 
-#Install Autohotkey
+# Install Autohotkey
 You will need to download autohotkey v1.1 (https://www.autohotkey.com/download/).
 
 
