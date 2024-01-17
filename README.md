@@ -17,7 +17,7 @@ You will need to download autohotkey v1.1 (https://www.autohotkey.com/download/)
 # OllamaEHR.ahk
 This will create a basic GUI interface to Ollama. Clicking a prompt will select the EHR window, copy and then send them to your Ollama instance running locally.
 In the script please set the URL accordingly: 
-Url := "http://127.0.0.0.1:11434/"
+Url := "http://127.0.0.1:11434/"
 
 Prompts and layout of the Window can be edited in the script to.
 Be warned, Mistral can and will hallucinate data.
